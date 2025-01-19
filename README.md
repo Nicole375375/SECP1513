@@ -26,6 +26,7 @@ briefly explore the requirements and job specifications for a career in IT.
 🌟CLO3🌟 : To briefly outline the requirements and job specifications for a career in IT.
 
 💞 Assignments / Project 💞
+
 o Industry Talk and Industry Visit:
 
     ▪ Assignment 1 (Format: Poster)
