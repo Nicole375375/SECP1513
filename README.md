@@ -44,3 +44,9 @@ o Industry Talk and Industry Visit:
 o PC Assemble (Lab)
 
 o Design Thinking Project (Low Fidelity Prototype)
+
+
+
+📌𝓡𝓮𝓯𝓵𝓮𝓬𝓽𝓲𝓸𝓷📌
+From all the assignments of related to industry talk and visit, I learned the way to filter important information. Design thinking project helps me address real-world challenges effectively, enabling me to participate in
+meaningful projects, enhance my practical and communication skills. For improvement,I will attend more industry visits to deepen my knowledge and stay updated on current trends, participating in international competitions to gain practical experience.
