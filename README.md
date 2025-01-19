@@ -1,7 +1,7 @@
 Overview of Technology & Information System
 ==================================================================================================================================
 
-💁🏻‍♀️ Course synopsis
+💁🏻‍♀️ 𝓒𝓸𝓾𝓻𝓼𝓮 𝓼𝔂𝓷𝓸𝓹𝓼𝓲𝓼 💁🏻‍♀️
 
 
 As a primer subject, this course will introduce students to information systems and technology (IS/IT) and its uses at
@@ -17,7 +17,9 @@ briefly explore the requirements and job specifications for a career in IT.
 
 💫Course lecturer : Dr. Suriati binti Sadimon
 
-💯Course Learning Outcomes (CLO) 
+
+
+💯 𝓒𝓸𝓾𝓻𝓼𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓞𝓾𝓽𝓬𝓸𝓶𝓮𝓼 (𝓒𝓛𝓞) 💯
 
 🌟CLO1🌟 : To describe the components of computer hardware and the applications of computer software.
 
@@ -25,7 +27,9 @@ briefly explore the requirements and job specifications for a career in IT.
 
 🌟CLO3🌟 : To briefly outline the requirements and job specifications for a career in IT.
 
-💞 Assignments / Project 💞
+
+
+💞 𝓐𝓼𝓼𝓲𝓰𝓷𝓶𝓮𝓷𝓽𝓼 / 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 💞
 
 o Industry Talk and Industry Visit:
 
