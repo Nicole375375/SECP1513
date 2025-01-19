@@ -1,7 +1,7 @@
 Overview of Technology & Information System
 ==================================================================================================================================
 
-Course synopsis
+💁🏻‍♀️ Course synopsis
 As a primer subject, this course will introduce students to information systems and technology (IS/IT) and its uses at
 home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be
 introduced. Students will be equipped with basic skills in handling PC installation and productivity tools via practical
@@ -10,15 +10,18 @@ part of work-based learning. Both industry visits and talks will expose students
 knowledge from the industry and increase engagement between university and industry. The student also needs to
 briefly explore the requirements and job specifications for a career in IT.
 
-Course coordinator : Muhammad Iqbal Tariq Bin Idris
-Course lecturer : Dr. Suriati binti Sadimon
 
-Course Learning Outcomes (CLO) 
-CLO1 : To describe the components of computer hardware and the applications of computer software.
-CLO2 : To distinguish between various types of information systems.
-CLO3 : To briefly outline the requirements and job specifications for a career in IT.
+💫Course coordinator : Muhammad Iqbal Tariq Bin Idris
 
-Assignments / Project :
+💫Course lecturer : Dr. Suriati binti Sadimon
+
+💯Course Learning Outcomes (CLO) 
+
+🌟CLO1🌟 : To describe the components of computer hardware and the applications of computer software.
+🌟CLO2🌟 : To distinguish between various types of information systems.
+🌟CLO3🌟 : To briefly outline the requirements and job specifications for a career in IT.
+
+💞 Assignments / Project 💞
 o Industry Talk and Industry Visit:
     ▪ Assignment 1 (Format: Poster)
     ▪ Assignment 2 (Format: Video)
