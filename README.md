@@ -2,6 +2,8 @@ Overview of Technology & Information System
 ==================================================================================================================================
 
 💁🏻‍♀️ Course synopsis
+
+
 As a primer subject, this course will introduce students to information systems and technology (IS/IT) and its uses at
 home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be
 introduced. Students will be equipped with basic skills in handling PC installation and productivity tools via practical
@@ -18,7 +20,9 @@ briefly explore the requirements and job specifications for a career in IT.
 💯Course Learning Outcomes (CLO) 
 
 🌟CLO1🌟 : To describe the components of computer hardware and the applications of computer software.
+
 🌟CLO2🌟 : To distinguish between various types of information systems.
+
 🌟CLO3🌟 : To briefly outline the requirements and job specifications for a career in IT.
 
 💞 Assignments / Project 💞
