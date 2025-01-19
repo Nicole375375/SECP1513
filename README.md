@@ -1,20 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NICOLE LEE
+Overview of Technology & Information System
 ==================================================================================================================================
 
-A first-year Computer Science (Graphic and Multimedia Software) student
+Course synopsis
+As a primer subject, this course will introduce students to information systems and technology (IS/IT) and its uses at
+home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be
+introduced. Students will be equipped with basic skills in handling PC installation and productivity tools via practical
+work in the labs, which shall comprise a major part of the study. This class also conducts industry visits and talks as a
+part of work-based learning. Both industry visits and talks will expose students to a real working environment, get
+knowledge from the industry and increase engagement between university and industry. The student also needs to
+briefly explore the requirements and job specifications for a career in IT.
 
-* 🌍  I'm based in Skudai,Malaysia
-* ✉️  You can contact me at [nicole0033007@gmail.com](mailto:nicole0033007@gmail.com)
-* 🧠  I'm learning C++ language this semester
+Course coordinator : Muhammad Iqbal Tariq Bin Idris
+Course lecturer : Dr. Suriati binti Sadimon
 
-### Skills
+Course Learning Outcomes (CLO) 
+CLO1 : To describe the components of computer hardware and the applications of computer software.
+CLO2 : To distinguish between various types of information systems.
+CLO3 : To briefly outline the requirements and job specifications for a career in IT.
 
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/share/1AsMGbLCec/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Nicole375375/SECP1513" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/nicoleeee.0_5?igsh=MWRudG94YTgxYWtoNQ==" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nicole-lee-937340327" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+Assignments / Project :
+o Industry Talk and Industry Visit:
+    ▪ Assignment 1 (Format: Poster)
+    ▪ Assignment 2 (Format: Video)
+    ▪ Assignment 3 (Format: Report)
+    ▪ Assignment 4 (Format: Technical Paper IEEE Format)
+o PC Assemble (Lab)
+o Design Thinking Project (Low Fidelity Prototype)
